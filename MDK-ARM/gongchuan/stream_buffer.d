@@ -1,0 +1,14 @@
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+gongchuan\stream_buffer.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gongchuan\stream_buffer.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gongchuan\stream_buffer.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+gongchuan\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gongchuan\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

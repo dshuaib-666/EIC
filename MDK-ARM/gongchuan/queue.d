@@ -1,0 +1,15 @@
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+gongchuan\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+gongchuan\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gongchuan\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+gongchuan\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gongchuan\queue.o: ../Core/Inc/FreeRTOSConfig.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gongchuan\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

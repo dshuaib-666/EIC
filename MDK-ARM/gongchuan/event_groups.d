@@ -1,0 +1,15 @@
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+gongchuan\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gongchuan\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+gongchuan\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gongchuan\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+gongchuan\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
